@@ -2,7 +2,8 @@
 
 Around 10% of population in USA and around 50 Million people in India suffer from thyroid disease each year, making it an extremely prevalent issue. The body's metabolism can be sped up or slowed down by a thyroid condition.
 
-The primary goal of this project is to use machine learning to determine if a person has compensated hypothyroidism, primary hypothyroidism, secondary hypothyroidism, or negative (no thyroid). The thyroid dataset from the UCI Machine Learning repository has been used to train classification algorithms like Random Forest, XGBoost, and KNN Model. The XGBoost model performed well with improved accuracy, precision, and recall after hyperparameter adjustment. Using the flask framework, the application has been deployed on Heroku.
+The primary goal of this project is to use machine learning to determine if a person has compensated hypothyroidism, primary hypothyroidism, secondary hypothyroidism, or negative (no thyroid). The thyroid dataset from the UCI Machine Learning repository has been used to train classification algorithms like Random Forest, SVM, and KNN Model Using the flask framework, the application has been deployed on Heroku.
+
 # Webpage Link
 
 ## For One-User-Input Prediction
@@ -65,7 +66,7 @@ The final model is deployed on Heroku using Flask framework.
 
 - Architecture: https://github.com/Navanshu04/Thyroid-Disease-Detection/blob/main/Docs/TDD_Architecture_V1.0_2.pdf
 
-- Detailed Project Report: https://github.com/Navanshu04/Thyroid-Disease-Detection/blob/main/Docs/TDR_DPR.0_2.pdf
+- Detailed Project Report: https://github.com/Navanshu04/Thyroid-Disease-Detection/blob/main/Docs/TDD_DPR.pdf
 
 # Author
 
